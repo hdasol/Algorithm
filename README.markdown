@@ -19,4 +19,4 @@
 | 43  | [메뉴 리뉴얼](https://school.programmers.co.kr./learn/courses/30/lessons/72411) / [ATM](https://www.acmicpc.net/problem/11399) / [다음수 구하기](https://www.acmicpc.net/problem/2697) / [쿼드트리](https://www.acmicpc.net/problem/1992) / [휴게소 세우기](https://www.acmicpc.net/problem/1477) / [회전 초밥](https://www.acmicpc.net/problem/15961) |
 | 44  | [소수상근수](https://www.acmicpc.net/problem/9421) / [합이 0](https://www.acmicpc.net/problem/3151) / [파닭파닭](https://www.acmicpc.net/problem/14627) / [블록 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42894) / [스네이크 그리기](https://www.acmicpc.net/problem/27513)                                                   |
 | 45  | [단풍잎 이야기](https://www.acmicpc.net/problem/16457) / [링크와 스타트](https://www.acmicpc.net/problem/15661) / [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) |
-
+| 46   | [등대](https://school.programmers.co.kr/learn/courses/30/lessons/133500) / [여행 가자](https://www.acmicpc.net/problem/1976) / [직사각형 피자](https://www.acmicpc.net/problem/28081) / [LCA](https://www.acmicpc.net/problem/11437)     
